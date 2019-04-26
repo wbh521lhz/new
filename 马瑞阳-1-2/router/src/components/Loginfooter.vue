@@ -1,0 +1,63 @@
+<template>
+    <div class='footer' >
+        <div class='cente' >
+            <button class='bat' >登录</button>
+        </div>
+        <div class='incla' >
+            <span class='bla' >注册用户</span>    
+        </div>
+        <div class='bofor' >
+            <span class='bla' >忘记密码</span>    
+        </div>
+    </div>
+</template>
+
+<script>
+export default {
+    
+}
+</script>
+
+<style>
+    .footer{
+        background-color: rgb(245, 245, 247);
+        height: 7.15rem;
+        width:7.5rem;
+        float:left;
+    }
+    .bla{
+        color: rgb(128, 128, 128);
+        font-size:0.3rem;
+        float:left;
+    }
+    .incla{
+        float: left;
+        width: 1.2rem;
+        height: 0.37rem;
+        padding-left: 0.3rem;
+        padding-top: 0.55rem;
+    }
+    .bofor{
+        float: right;
+        width: 1.2rem;
+        height: 0.37rem;
+        padding-right: 0.3rem;
+        padding-top: 0.55rem;
+    }
+    .bat{
+        background-color: rgb(0, 145, 255);
+        color: white;
+        border: none;
+        width: 6.9rem;
+        height: 0.99rem;
+        font-size:0.3rem;
+        float: left;
+    }
+    .cente{
+        padding-top:0.6rem;
+        padding-left: 0.3rem;
+        width: 6.9rem;
+        height: 0.99rem;
+        float:left;
+    }
+</style>
