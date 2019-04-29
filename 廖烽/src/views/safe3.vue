@@ -89,7 +89,19 @@ export default {
         text-decoration:rgb(255, 255, 255);
         font-size: 22px;
         color: #b0b0b0;
+<<<<<<< HEAD
         margin-left: -1rem;
+=======
+<<<<<<< HEAD
+        margin-left: -1rem;
+=======
+<<<<<<< HEAD
+        margin-left: -1rem;
+=======
+        margin-left: -1.2rem;
+>>>>>>> 廖烽第三次上传
+>>>>>>> 廖烽第三次上传
+>>>>>>> 廖烽第三次上传
         margin-top: 0.65rem;
     }
 </style>

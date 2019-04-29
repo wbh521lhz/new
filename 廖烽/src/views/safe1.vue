@@ -59,7 +59,19 @@ export default {
         font-size: 22px;
         color: white;
         margin-top: 0.18rem;
+<<<<<<< HEAD
         margin-left: 1.85rem;
+=======
+<<<<<<< HEAD
+        margin-left: 1.85rem;
+=======
+<<<<<<< HEAD
+        margin-left: 1.85rem;
+=======
+        margin-left: 1.5rem;
+>>>>>>> 廖烽第三次上传
+>>>>>>> 廖烽第三次上传
+>>>>>>> 廖烽第三次上传
     }
     .header .List_two{
         width: 6.9rem;

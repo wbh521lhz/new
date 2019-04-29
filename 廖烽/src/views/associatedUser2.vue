@@ -41,7 +41,19 @@ export default {
     }
     #coniatner{
         width: 7.5rem;
+<<<<<<< HEAD
         height: 11.55rem;
+=======
+<<<<<<< HEAD
+        height: 11.55rem;
+=======
+<<<<<<< HEAD
+        height: 11.55rem;
+=======
+        height: 11.05rem;
+>>>>>>> 廖烽第三次上传
+>>>>>>> 廖烽第三次上传
+>>>>>>> 廖烽第三次上传
     }
     #coniatner ul{
         width: 7.5rem;
@@ -62,7 +74,19 @@ export default {
         float: left;
         width: 0.47rem;
         height: 0.47rem;
+<<<<<<< HEAD
         margin-left: 1.34rem;
+=======
+<<<<<<< HEAD
+        margin-left: 1.34rem;
+=======
+<<<<<<< HEAD
+        margin-left: 1.34rem;
+=======
+        margin-left: 0.95rem;
+>>>>>>> 廖烽第三次上传
+>>>>>>> 廖烽第三次上传
+>>>>>>> 廖烽第三次上传
         margin-top: 0.15rem;
     }
     #coniatner ul .li-2{
@@ -135,7 +159,19 @@ export default {
         width: 1.4rem;
         height: 1.4rem;
         background-color: #fe0000;
+<<<<<<< HEAD
         margin-left: 4.34rem;
+=======
+<<<<<<< HEAD
+        margin-left: 4.34rem;
+=======
+<<<<<<< HEAD
+        margin-left: 4.34rem;
+=======
+        margin-left: 4.18rem;
+>>>>>>> 廖烽第三次上传
+>>>>>>> 廖烽第三次上传
+>>>>>>> 廖烽第三次上传
     }
     #coniatner ul .del p{
         font-size: 25px;

@@ -34,7 +34,19 @@ export default {
 <style scoped>
     .coniater{
         width: 7.5rem;
+<<<<<<< HEAD
         height: 2.15rem;
+=======
+<<<<<<< HEAD
+        height: 2.15rem;
+=======
+<<<<<<< HEAD
+        height: 2.15rem;
+=======
+        height: 3.65rem;
+>>>>>>> 廖烽第三次上传
+>>>>>>> 廖烽第三次上传
+>>>>>>> 廖烽第三次上传
     }
     .coniater .Text1{
         width: 7.5rem;
@@ -48,7 +60,19 @@ export default {
     .coniater .Text1 span{
         float: left;
         font-size: 22px;
+<<<<<<< HEAD
         margin-left: 5.7rem;
+=======
+<<<<<<< HEAD
+        margin-left: 5.7rem;
+=======
+<<<<<<< HEAD
+        margin-left: 5.7rem;
+=======
+        margin-left: 5.5rem;
+>>>>>>> 廖烽第三次上传
+>>>>>>> 廖烽第三次上传
+>>>>>>> 廖烽第三次上传
         margin-top: -0.45rem;
         color: #5aaaff;
     }
