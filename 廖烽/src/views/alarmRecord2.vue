@@ -43,41 +43,20 @@ export default {
 
 <style scoped>
     .coniater{
-<<<<<<< HEAD
+
         width: 6.9rem;
         height: 10.4rem;
         margin-left: 0.3rem;
-=======
-<<<<<<< HEAD
-        width: 6.9rem;
-        height: 10.4rem;
-        margin-left: 0.3rem;
-=======
-<<<<<<< HEAD
-        width: 6.9rem;
-        height: 10.4rem;
-        margin-left: 0.3rem;
-=======
         width: 100%;
         height: 10.4rem;
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
+
     }
     .coniaterList_one{
         width: 6.9rem;
         height: 1.1rem;
         border-bottom: 1px solid  #e6e6e6;
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
         margin-left:0.3rem;
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
+
     }
     .coniaterList_one .background{
         width: 0.9rem;
@@ -108,19 +87,7 @@ export default {
     .coniaterList_one .Text_three{
         float: left;
         font-size: 22px;
-<<<<<<< HEAD
-        margin-left: 3.65rem;
-=======
-<<<<<<< HEAD
-        margin-left: 3.65rem;
-=======
-<<<<<<< HEAD
-        margin-left: 3.65rem;
-=======
         margin-left: 5.7rem;
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
         margin-top: -0.6rem;
         color: #cdcdcd;
     }
@@ -128,16 +95,8 @@ export default {
         width: 6.9rem;
         height: 1.1rem;
         border-bottom: 1px solid  #e6e6e6;
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
         margin-left:0.3rem;
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
+
     }
     .coniaterList_two .background{
         width: 0.9rem;
@@ -168,19 +127,8 @@ export default {
     .coniaterList_two .Text_three{
         float: left;
         font-size: 22px;
-<<<<<<< HEAD
         margin-left: 3.65rem;
-=======
-<<<<<<< HEAD
-        margin-left: 3.65rem;
-=======
-<<<<<<< HEAD
-        margin-left: 3.65rem;
-=======
         margin-left: 5.7rem;
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
         margin-top: -0.6rem;
         color: #cdcdcd;
     }
@@ -188,16 +136,7 @@ export default {
         width: 6.9rem;
         height: 1.1rem;
         border-bottom: 1px solid  #e6e6e6;
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
         margin-left:0.3rem;
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
     }
     .coniaterList_three .background{
         width: 0.9rem;
@@ -228,19 +167,7 @@ export default {
     .coniaterList_three .Text_three{
         float: left;
         font-size: 22px;
-<<<<<<< HEAD
-        margin-left: 3.65rem;
-=======
-<<<<<<< HEAD
-        margin-left: 3.65rem;
-=======
-<<<<<<< HEAD
-        margin-left: 3.65rem;
-=======
         margin-left: 5.7rem;
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
         margin-top: -0.6rem;
         color: #cdcdcd;
     }
@@ -248,16 +175,7 @@ export default {
         width: 6.9rem;
         height: 1.1rem;
         border-bottom: 1px solid  #e6e6e6;
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
         margin-left:0.3rem;
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
     }
      .coniaterList_four .background{
         width: 0.9rem;
@@ -288,19 +206,7 @@ export default {
     .coniaterList_four .Text_three{
         float: left;
         font-size: 22px;
-<<<<<<< HEAD
-        margin-left: 3.65rem;
-=======
-<<<<<<< HEAD
-        margin-left: 3.65rem;
-=======
-<<<<<<< HEAD
-        margin-left: 3.65rem;
-=======
         margin-left: 5.7rem;
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
->>>>>>> 廖烽第三次上传
         margin-top: -0.6rem;
         color: #cdcdcd;
     }
